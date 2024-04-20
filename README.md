@@ -1,1 +1,1 @@
-# climax
+# CliMitra - The Weather App
